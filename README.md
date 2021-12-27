@@ -17,5 +17,5 @@ You will be prompted to enter your name, air temp and unit as well as wind speed
 
 Based on the users input the cacluations will be evaluated and will fall into three categories based on a range of temps.
 
-Each range has a different string that will be returned lettign the user know how severe the windchill is.
+Each range has a different string that will be returned letting the user know how severe the windchill is.
 
